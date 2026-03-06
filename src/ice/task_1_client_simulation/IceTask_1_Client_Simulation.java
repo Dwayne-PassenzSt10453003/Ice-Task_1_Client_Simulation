@@ -15,6 +15,7 @@ public class IceTask_1_Client_Simulation {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //Hello,friend!
     }
     
 }
