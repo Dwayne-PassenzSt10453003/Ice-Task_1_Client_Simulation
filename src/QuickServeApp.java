@@ -39,9 +39,9 @@ public class QuickServeApp {
                + "Total: R" + total;
        
        //Display receipt
-       JOptionPane.showMessagedialog(null, receipt);
+       JOptionPane.showMessageDialog(null, receipt);
        
-       system.exit(0);
+       System.exit(0);
                   
     }
 }
