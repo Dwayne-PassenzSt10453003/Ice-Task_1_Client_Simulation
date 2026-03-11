@@ -1,4 +1,14 @@
+/*/*
+PR#1: QuickServeApp - Campus QuickServe Receipt
+Author: Dwayne Passenz
+Date: 2026/03/11
 
+Description:
+- Collects customer details (Name, StudenNumber, Order, Quantity of Orders, Price) via JOptionPane
+- Order object created to store details
+- Calculates subtotal, discount ( a 10% for quantity > 3, (15%), and the total
+- Produces a receipt string and displays it in a JOptionPane message.
+*/
 import javax.swing.JOptionPane;
 
 public class QuickServeApp {
