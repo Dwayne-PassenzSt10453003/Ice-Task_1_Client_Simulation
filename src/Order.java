@@ -32,7 +32,7 @@ public class Order {
             }
             return 0;
         }
-        //Calculating Mehtod for VAT
+        //Calculating Method for VAT
         public double calculateVat(){
             double amountAfterDiscount = calculateSubtotal() - calculateDiscount();
                  return amountAfterDiscount * VAT_RATE;                            

@@ -16,7 +16,7 @@ public class QuickServeApp {
               JOptionPane.showInputDialog("Enter price per irem:")
        );
        
-       //Create order object
+       //Create the order object
        Order order = new Order(name, studentNumber, item, quantity, price);
        
        //Perform calculations
