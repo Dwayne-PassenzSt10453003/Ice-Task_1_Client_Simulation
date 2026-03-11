@@ -1,4 +1,4 @@
-<img width="326" height="378" alt="Screenshot 2026-03-11 195115" src="https://github.com/user-attachments/assets/84ce3496-a016-48e7-8bae-76477c917d0c" /># Campus QuickServe Project  
+ QuickServe App Project  
 
 # Problem  
 They want a small Java prototype application that: 
