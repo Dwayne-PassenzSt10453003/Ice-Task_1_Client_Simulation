@@ -26,7 +26,7 @@ public class QuickServeApp {
        double vat = order.calculateVat();
        double total = order.calculateTotal();
        
-       //Producing the receipt
+       //Producing the appropriate receipt
        String receipt = 
           "Campus QuickServe Receipt\n\n"
                + "Customer Name: " + order.getCustomerName() + "\n"
